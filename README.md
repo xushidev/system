@@ -1,16 +1,8 @@
 # system
 
-A new Flutter project.
+[System](https://github.com/xushidev/system) is a personal project, it is currently under construction. :wrench:
 
-## Getting Started
+System is a free, ad-free and open source flutter app. It is distribuited under the **GNU General Public License version 3** (GPL v3), ensuring that it remains free software. Users can modify and redistribute the software, provided they adhere to the GPL terms.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+System is an app that is supposed to gamify your life, by tracking your todo list and informations through the apps, and your overall statistics.
+System is a fully offline software, and it stores all your information on the device and in no way it connects through the internet in any ways.
